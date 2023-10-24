@@ -45,4 +45,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Github Stats:
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeVarelaa&theme=radical&card_width=450)](https://github.com/JaimeVarelaa/github-readme-stats)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaimevarelaa&show_icons=true&locale=en&layout=compact" alt="jaimevarelaa" width="60%" style="margin: 20%;"/>
+</p>
